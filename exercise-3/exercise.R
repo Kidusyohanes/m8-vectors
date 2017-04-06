@@ -20,10 +20,9 @@ MarbleGame <- function(guess) {
 }
 
 # Play the marble game!
-MarbleGame(Red)
-MarbleGame(Green)
+#MarbleGame(Red)
+#MarbleGame(Green)
 # Bonus: Play the marble game until you win, keeping track of how many tries you take
-
 
 ## Double bonus(answer not provided): play the game 1000X (until you win) and track the average number of tries
 # Is it what you expected based on the probability
